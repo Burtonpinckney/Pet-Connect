@@ -28,4 +28,8 @@ There will also be a link to each result that will send you to the pet finder pa
 
 ![PetConfinish](https://user-images.githubusercontent.com/51678140/71012079-86755b80-20bc-11ea-8586-074f5b1c5246.png)
 
+## Bugs
+
+Program's API seems to have an issue with certain zip codes. If you get no results try a near by zip code with an extended range.
+
 
