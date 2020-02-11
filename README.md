@@ -2,12 +2,15 @@
 ## Link
 https://awesomeproject2.herokuapp.com/
 
-## Languages used:
-HTML
+## Technologies used:
+* HTML
+* CSS
+* Javascript
+* API
+* JSON
+* JQuery
+* Bootstrap
 
-CSS
-
-Javascript
 
 ## How to use Pet Finder
 First step is go to link and page will open up.
